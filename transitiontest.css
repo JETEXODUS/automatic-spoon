@@ -1,5 +1,5 @@
 div{
-     width: 150px;
+     width: 100px;
      height: 150px;
      background: blue;
      transition-property: width height;
@@ -11,7 +11,7 @@ div{
 }
 
 div:hover{
-      width: 250px;
-      height: 175px;
+      width: 175px;
+      height: 250px;
       background: red;
 }
